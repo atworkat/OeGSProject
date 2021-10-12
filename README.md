@@ -1,2 +1,2 @@
 # oegsproject
-oegsproject
+placeholder for the oegsproject
